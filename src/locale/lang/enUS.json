@@ -1,0 +1,26 @@
+{
+  "message": {
+    "hello": "a simple message"
+  },
+  "colors": {
+    "red": "Red",
+    "green": "Green",
+    "blue": "Blue"
+  },
+  "region": "Region",
+  "language": "Language",
+  "regionOptions": {
+    "cn": "China",
+    "tw": "Taiwan",
+    "us": "United States"
+  },
+  "languageOptions": {
+    "zhCN": "简体中文",
+    "zhTW": "繁體中文",
+    "enUS": "English"
+  },
+  "drag_to_upload": "Drag an mp3 or click to select",
+  "upload": "Upload",
+  "darkModeNow": "Dark",
+  "brightModeNow": "Bright"
+}

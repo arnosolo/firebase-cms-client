@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .btn-primary {
+    @apply py-1 px-4 rounded-md
+    bg-bright text-bright-contrastText
+    dark:bg-dark dark:text-dark-contrastText
+    active:scale-95;
+  }
+}

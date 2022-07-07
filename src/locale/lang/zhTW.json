@@ -1,0 +1,22 @@
+{
+  "message": {
+    "hello": "一條簡單的消息"
+  },
+  "colors": {
+    "red": "紅色",
+    "green": "綠色",
+    "blue": "藍色"
+  },
+  "region": "地區",
+  "language": "語言",
+  "regionOptions": {
+    "cn": "中國",
+    "tw": "台灣",
+    "us": "美國"
+  },
+  "languageOptions": {
+    "zhCN": "简体中文",
+    "zhTW": "繁體中文",
+    "enUS": "English"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "friendlychat-84bb9",
+    "vue-firebase-demo": "friendlychat-84bb9"
+  },
+  "targets": {}
+}
